@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h2 {
+    color: #080051;
+}
+
+.table-container {
+    display: inline-block;
+    padding: 10px;
+    border: 1px solid #0000cc; /* viền xanh */
+    background-color: #fff;
+}
+
+table {
+    margin: auto;
+    border-collapse: separate;
+    border-spacing: 5px;
+}
+
+td {
+    font-size: 16px;
+}
+
+label {
+    color: brown;
+    font-weight: bold;
+}
+
+.input-label {
+    color: blue;
+    font-weight: bold;
+}
+
+input[type="text"] {
+    width: 180px;
+    padding: 3px;
+}
+
+a {
+    color: rgb(0, 57, 117);
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
